@@ -23,7 +23,9 @@
 |--------|-------------|-----------|
 
 | [🍔 Quickbit](https://quickbit.netlify.app/) | A modern food delivery app for users to order meals from nearby restaurants | React, tailwind, Netlify |
+
 | [🎬 Movie Search App](https://movie-search-react-app.netlify.app/) | A clean movie search interface using the OMDB API with real-time search results | React, OMDB API |
+
 | [🌦️ Weather App](https://react-weather-app-api.netlify.app/) | Weather forecasting app with backend logic fetching live API data, condition-based UI, and location support | React, JavaScript, OpenWeatherMap API |
 
 ---
