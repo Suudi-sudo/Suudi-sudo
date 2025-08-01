@@ -57,7 +57,7 @@ I'm a **Full Stack Developer** who loves turning ideas into powerful digital sol
 
 
 <p align="center">
-  <img src="https://github.com/Suudi-sudo/Suudi-sudo/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ---
