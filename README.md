@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** who loves turning ideas into powerful digital sol
 ### 🧾 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suudi-sudo&theme=github_dark"/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suudi-sudo&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suudi-sudo&theme=github_dark"/>
 </p>
