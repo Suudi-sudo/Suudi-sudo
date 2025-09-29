@@ -3,7 +3,7 @@
 
 ---
 
-I'm a **Full Stack Developer** who loves turning ideas into powerful digital solutions. Whether it’s backend logic, frontend design, or full-scale platforms — I love creating tech that helps people.
+I'm a **software engineer** who loves turning ideas into powerful digital solutions. Whether it’s backend logic, frontend design, or full-scale platforms — I love creating tech that helps people.
 
 ---
 
@@ -15,17 +15,6 @@ I'm a **Full Stack Developer** who loves turning ideas into powerful digital sol
 - 💳 Payment: **Stripe**
 - 🛠️ Tools: **Git, GitHub, Vite, VS Code**
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| [🍔 Quickbit](https://quickbit.netlify.app/) | A modern food delivery app for users to order meals from nearby restaurants | React, Tailwind, Netlify |
-| [🎬 Movie Search App](https://movie-search-react-app.netlify.app/) | A clean movie search interface using the OMDB API with real-time search results | React, OMDB API |
-| [🌦️ Weather App](https://react-weather-app-api.netlify.app/) | Weather forecasting app with backend logic fetching live API data, condition-based UI, and location support | React, JavaScript, OpenWeatherMap API |
-
----
 
 ### 🌐 Portfolio & Socials
 
