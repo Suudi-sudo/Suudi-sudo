@@ -5,22 +5,11 @@
 
 I'm a **software engineer** who loves turning ideas into powerful digital solutions. Whether it’s backend logic, frontend design, or full-scale platforms — I love creating tech that helps people.
 
----
+###  Portfolio & Socials
 
-### 💻 Tech Stack
-
-- 🌐 Frontend: **React.js, TailwindCSS, HTML, CSS, JavaScript**
-- ⚙️ Backend: **Python, FastAPI, Supabase, PostgreSQL**
-- 🔐 Auth: **Firebase Auth, Supabase Auth**
-- 💳 Payment: **Stripe**
-- 🛠️ Tools: **Git, GitHub, Vite, VS Code**
-
-
-### 🌐 Portfolio & Socials
-
-- 🖥️ Portfolio: [sucdi-portfolio.vercel.app](https://sucdi-portfolio.vercel.app)
-- 💼 LinkedIn: [Sucdi Abdisalan](https://www.linkedin.com/in/sucdi-abdisalan-0a2349267/)
-- 📫 Email: abdisalansucdi@gmail.com
+-  Portfolio: [sucdi-portfolio.vercel.app](https://sucdi-portfolio.vercel.app)
+-  LinkedIn: [Sucdi Abdisalan](https://www.linkedin.com/in/sucdi-abdisalan-0a2349267/)
+-  Email: abdisalansucdi@gmail.com
 
 ---
 
@@ -51,13 +40,13 @@ I'm a **software engineer** who loves turning ideas into powerful digital soluti
 
 ---
 
-### 💡 Fun Facts
+###  Fun Facts
 
-- 💻 I love exploring open-source projects and learning from real-world codebases  
-- 🧠 I'm fascinated by backend logic, API design, and scalable architectures  
-- 🔄 I enjoy refactoring code to be cleaner, faster, and more maintainable  
-- 📈 I'm always keeping up with tech trends, frameworks, and developer tools  
-- 🌍 I believe great tech starts with understanding user needs and solving real problems  
+-  I love exploring open-source projects and learning from real-world codebases  
+-  I'm fascinated by backend logic, API design, and scalable architectures  
+-  I enjoy refactoring code to be cleaner, faster, and more maintainable  
+-  I'm always keeping up with tech trends, frameworks, and developer tools  
+-  I believe great tech starts with understanding user needs and solving real problems  
 
 ---
 
