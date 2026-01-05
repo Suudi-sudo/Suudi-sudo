@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sucdi!</h1>
-<h3 align="center">A passionate Software Developer from Kenya 🇰🇪</h3>
+<h3 align="center">A passionate Software Developer from Kenya </h3>
 
 ---
 
@@ -13,7 +13,7 @@ I'm a **software engineer** who loves turning ideas into powerful digital soluti
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suudi-sudo&show_icons=true&theme=react&hide_title=false" alt="GitHub Stats" height="180"/>
@@ -22,7 +22,7 @@ I'm a **software engineer** who loves turning ideas into powerful digital soluti
 
 ---
 
-### 🧾 GitHub Profile Summary
+###  GitHub Profile Summary
 
 <p align="center">
 
@@ -50,4 +50,4 @@ I'm a **software engineer** who loves turning ideas into powerful digital soluti
 
 ---
 
-<h3 align="center">✨ Let's build something meaningful together ✨</h3>
+<h3 align="center"> Let's build something meaningful together </h3>
