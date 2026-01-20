@@ -7,7 +7,7 @@ I'm a **software engineer** who loves turning ideas into powerful digital soluti
 
 ###  Portfolio & Socials
 
--  Portfolio: [sucdi-portfolio.vercel.app](https://sucdi-portfolio.vercel.app)
+-  Portfolio: [sucdi-portfolio.vercel.app](https://suuddi-port.vercel.app/)
 -  LinkedIn: [Sucdi Abdisalan](https://www.linkedin.com/in/sucdi-abdisalan-0a2349267/)
 -  Email: abdisalansucdi@gmail.com
 
