@@ -1,36 +1,52 @@
-<h1 align="center">Hi there, I'm Sucdi!</h1>
-<h3 align="center">A passionate Software Developer from Kenya </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=header&text=Suudi%20Abdisalan&fontSize=40&fontColor=000000" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer" alt="Typing SVG">
+</div>
 
 ---
 
-I'm a **software engineer** who loves turning ideas into powerful digital solutions. Whether it’s backend logic, frontend design, or full-scale platforms — I love creating tech that helps people.
+## 👋 About Me
 
-###  Portfolio & Socials
-
--  Portfolio: [sucdi-portfolio.vercel.app](https://suuddi-port.vercel.app/)
--  LinkedIn: [Sucdi Abdisalan](https://www.linkedin.com/in/sucdi-abdisalan-0a2349267/)
--  Email: abdisalansucdi@gmail.com
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suudi-sudo&show_icons=true&theme=react&hide_title=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suudi-sudo&layout=compact&theme=react" alt="Top Languages" height="180"/>
-</p>
+- 🔭 Building **scalable web applications**
+- 🌍 Based in **Nairobi, Kenya**
+- 💼 **2+ years** of full-stack experience
+- 🎓 Moringa School & PLP Academy graduate
+- 📫 Reach me: **sucdi.dev1@gmail.com**
 
 ---
 
-###  GitHub Profile Summary
+## 🚀 Tech Stack
 
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suudi-sudo&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suudi-sudo&theme=github_dark"/>
-</p>
+`React` • `Next.js` • `Node.js` • `TypeScript` • `Python` • `Tailwind CSS` • `MongoDB` • `PostgreSQL` • `Git`
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suudi-sudo&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700&bg_color=0d1117" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suudi-sudo&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&background=0d1117" width="45%" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="https://suudi.dev"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/sucdi-abdisalan-0a2349267/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sucdi.dev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer" width="100%">
+</div>
+
 
 
 
